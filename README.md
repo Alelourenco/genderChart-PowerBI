@@ -1,3 +1,84 @@
+# Gender Distribution Chart for Power BI
+
+Visual Premium de Distribuição por Gênero • Premium Gender Distribution visual for Power BI
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Custom%20Visual-F2C811?logo=powerbi&logoColor=000)](#)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](#)
+[![License](https://img.shields.io/badge/license-Proprietary-red)](#)
+[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178C6?logo=typescript&logoColor=fff)](#)
+
+Português • English • Download: use os links de seção abaixo
+
+---
+
+## Portugues
+
+Leve seus dashboards de diversidade para outro patamar com um visual premium desenvolvido para Power BI. O pacote `.pbiviz` está disponível neste repositório para download imediato; o código-fonte permanece privado.
+
+### Beneficios
+- Ícones elegantes com 4 estilos (Formal, Vestido, Neutro, Minimalista)
+- Preenchimento proporcional por percentual e animações suaves
+- Totalmente configurável: cores, fontes, orientação, tamanhos
+- Integração nativa: seleções, filtros cruzados, destaques, bookmarks
+- Compatível com temas do Power BI
+
+### O que você recebe
+- Arquivo `.pbiviz` pronto para importação no Power BI Desktop
+- README bilíngue com instruções de uso e suporte
+
+### Instalacao
+1. Baixe o arquivo `.pbiviz` na seção [Download](#download).
+2. No Power BI Desktop: Inserir → Obter mais visuais → Importar de um arquivo.
+3. Selecione o pacote e confirme.
+
+### Como usar
+1. Arraste o visual para o canvas.
+2. Adicione um campo categórico (ex.: Gênero) e um campo numérico.
+3. Personalize no painel de formatação (cores, fontes, orientação, ícones).
+
+### Suporte
+Dúvidas comerciais e suporte: alexandre.2.lourenco@outlook.com
+
+---
+
+## English
+
+Deliver stunning diversity dashboards with a premium Power BI visual. The packaged `.pbiviz` is available for immediate download; source code remains private.
+
+### Highlights
+- Elegant icons with 4 styles (Suit, Dress, Neutral, Minimal)
+- Proportional fill by percentage and smooth animations
+- Fully configurable: colors, fonts, orientation, sizes
+- Native interactions: selections, cross-filtering, highlights, bookmarks
+- Theme-aware (Power BI themes)
+
+### Included
+- Single `.pbiviz` file ready to import into Power BI Desktop
+- Bilingual README with setup and support
+
+### Quick start
+1. Download the `.pbiviz` from [Download](#download).
+2. Power BI Desktop: Insert → Get more visuals → Import a visual from a file.
+3. Select the package and confirm.
+
+### Support
+Questions or enterprise inquiries: alexandre.2.lourenco@outlook.com
+
+---
+
+## Download
+
+Arquivo/File: `genderDistributionVizE8F4A1B2C3D4E5F6.1.0.0.0.pbiviz`
+
+- Link direto: [baixar/download](./genderDistributionVizE8F4A1B2C3D4E5F6.1.0.0.0.pbiviz)
+
+---
+
+## Licenca / License
+
+Todos os direitos reservados • All rights reserved.
+O visual empacotado pode ser usado em relatórios do Power BI conforme a governança da sua organização. Redistribuição do código-fonte não é permitida.
 <div align="center"><div align="center"># Gender Distribution Chart for Power BI / Visual de Distribuição por Gênero
 
 
